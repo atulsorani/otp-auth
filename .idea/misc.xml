@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/font/montserrat_bold.xml" value="0.2638888888888889" />
-        <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/layout/activity_home.xml" value="0.21333333333333335" />
+        <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/layout/activity_main2.xml" value="0.14907407407407408" />
         <entry key="..\:/MyAndroid/firebasecrud/app/src/main/res/layout/activity_verify.xml" value="0.2212962962962963" />
       </map>
     </option>
